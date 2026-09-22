@@ -88,12 +88,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- Shared Events Module (local dependency) -->
-		<dependency>
-			<groupId>com.training</groupId>
-			<artifactId>shared-events</artifactId>
-			<version>1.0.0</version>
-		</dependency>
 	</dependencies>
 
 	<build>
