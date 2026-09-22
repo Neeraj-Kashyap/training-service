@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "ce182c4a-c6a7-4937-aec3-490fd607cf87",
+		"name": "event-handling-application",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10037503"
+	},
+	"item": [
+		{
+			"name": "Training Service Status",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/training-sessions/checkup",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"training-sessions",
+						"checkup"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "training-session endpoint",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/training-sessions/checkup",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"training-sessions",
+						"checkup"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
