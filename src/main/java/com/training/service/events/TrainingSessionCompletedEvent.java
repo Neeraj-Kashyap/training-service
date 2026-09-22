@@ -10,13 +10,7 @@ import java.time.Instant;
 import java.util.UUID;
 
 /**
- * Domain event: Training session has been marked complete by the training service.
- *
- * Design notes:
- * - Include a unique eventId for tracking and idempotency
- * - Use Instant for UTC timestamps (serializes to ISO-8601)
- * - Include source service identification for debugging
- * - Version the schema early (v1 convention) for forward compatibility
+ *  * Domain event: Training session to mark complete by the training service.
  */
 @Data
 @NoArgsConstructor
