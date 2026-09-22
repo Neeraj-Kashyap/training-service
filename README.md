@@ -17,8 +17,22 @@ Technologies or Stack Used:
 4) MySQL
 5) Lombok Plugin
 
-PREREQUISTIES:
+PREREQUISITES:
 
 1) CREATE DATABASE training_db. (Refer data.sql file) 
-2) Clone the repo and up the service.
+2) Clone the training-service repo and make it running.
 3) INSERT few record in the DB. (Refer data.sql file)
+
+
+Use the given repo url to clone
+url: 
+
+1) CREATE DATABASE progress_db. (Refer data.sql)
+2) Clone the progress-service and make it running
+
+
+Now execute the /complete endpoint with the session id. 
+Check the progress-service, it will get the kafka events.
+
+
+Refer collection mentioned in the resources' folder.
