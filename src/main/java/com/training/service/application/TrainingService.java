@@ -1,7 +1,7 @@
 package com.training.service.application;
 
-import com.training.events.TrainingSessionCompletedEvent;
 import com.training.service.domain.TrainingSession;
+import com.training.service.events.TrainingSessionCompletedEvent;
 import com.training.service.infra.repository.TrainingSessionRepository;
 import com.training.service.infra.events.EventPublisher;
 import lombok.RequiredArgsConstructor;

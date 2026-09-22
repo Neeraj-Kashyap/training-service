@@ -1,6 +1,6 @@
 package com.training.service.infra.events;
 
-import com.training.events.TrainingSessionCompletedEvent;
+import com.training.service.events.TrainingSessionCompletedEvent;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.core.KafkaTemplate;

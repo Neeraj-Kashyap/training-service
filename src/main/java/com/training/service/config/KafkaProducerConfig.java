@@ -1,6 +1,6 @@
 package com.training.service.config;
 
-import com.training.events.TrainingSessionCompletedEvent;
+import com.training.service.events.TrainingSessionCompletedEvent;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.beans.factory.annotation.Value;
