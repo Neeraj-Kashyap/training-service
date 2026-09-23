@@ -16,6 +16,7 @@ The Training Service contains 2 endpoints in the controller.
 3) Apache Kafka
 4) MySQL
 5) Lombok Plugin
+6) Postman
 
 ## PREREQUISITES:
 
