@@ -38,3 +38,4 @@ Check the progress-service, it will get the kafka events.
 
 
 Refer collection mentioned in the resources' folder.
+Collection Name: event-handling-application.postman_collection.json
