@@ -29,7 +29,7 @@ Use the given repo url to clone
 
 url: https://github.com/Neeraj-Kashyap/progress-service
 
-1) CREATE DATABASE progress_db. (Refer data.sql)
+1) CREATE DATABASE progress_db. (Refer data.sql file, present in resources folder)
 2) Clone the progress-service and build run
 
 
