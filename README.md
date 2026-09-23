@@ -21,7 +21,7 @@ The Training Service contains 2 endpoints in the controller.
 ## PREREQUISITES:
 
 1) CREATE DATABASE training_db. (Refer data.sql file) 
-2) Clone the training-service repo and make it running.
+2) Clone the training-service repo and build run
 3) INSERT few record in the DB. (Refer data.sql file)
 
 
@@ -30,7 +30,7 @@ Use the given repo url to clone
 url: https://github.com/Neeraj-Kashyap/progress-service
 
 1) CREATE DATABASE progress_db. (Refer data.sql)
-2) Clone the progress-service and make it running
+2) Clone the progress-service and build run
 
 
 Now execute the /complete endpoint with the session id. 
