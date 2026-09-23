@@ -26,7 +26,7 @@ PREREQUISITES:
 
 Use the given repo url to clone
 
-url: 
+url: https://github.com/Neeraj-Kashyap/progress-service
 
 1) CREATE DATABASE progress_db. (Refer data.sql)
 2) Clone the progress-service and make it running
