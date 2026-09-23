@@ -31,10 +31,10 @@ public class TrainingSessionCompletedEvent {
     private Instant completedAt;
 
     @JsonProperty("source")
-    private String source;  // e.g., "training-service"
+    private String source;
 
     @JsonProperty("schemaVersion")
-    private String schemaVersion;  // e.g., "1.0"
+    private String schemaVersion;
 
     /**
      * Factory method with sensible defaults.
