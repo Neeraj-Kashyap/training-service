@@ -25,6 +25,7 @@ PREREQUISITES:
 
 
 Use the given repo url to clone
+
 url: 
 
 1) CREATE DATABASE progress_db. (Refer data.sql)
