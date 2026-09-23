@@ -10,14 +10,14 @@ The Training Service contains 2 endpoints in the controller.
 2) /training-sessions/{sessionId}/complete
     The above endpoint will check the training session
 
-Technologies or Stack Used:
+## Technologies or Stack Used:
 1) Java 17
 2) Spring Boot
 3) Apache Kafka
 4) MySQL
 5) Lombok Plugin
 
-PREREQUISITES:
+## PREREQUISITES:
 
 1) CREATE DATABASE training_db. (Refer data.sql file) 
 2) Clone the training-service repo and make it running.
