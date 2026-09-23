@@ -8,3 +8,6 @@ INSERT INTO training_db.training_sessions (session_id, trainee_id, status, versi
 ('1003', '2003', 'IN_PROGRESS',1),
 ('1004', '2002', 'COMPLETED',2),
 ('1005', '2004', 'COMPLETED',1);
+
+
+SELECT * FROM training_db.training_sessions;
